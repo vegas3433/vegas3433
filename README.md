@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
-- 📫 You can reach me at vegas3433@gmail.com
 
 <!---
 vegas3433/vegas3433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
